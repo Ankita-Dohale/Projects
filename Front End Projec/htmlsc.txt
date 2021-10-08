@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social working website</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,600;0,700;0,900;1,900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
+<script src="https://kit.fontawesome.com/03b04160a0.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <section class="header">
+        <nav>
+            <a href="index.html"><img src="images/logo4.png"> </a>
+            <div class="nav-links">
+                 <i class="fa fa-times" ></i>
+                <ul>
+                    <li><a href="">Home</a></li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Login</a></li>
+                    <li><a href="">Blog</a></li>
+                    <li><a href="">Contact</a></li>
+                    <li><a href="">Membership</a></li>
+                    <li><a href="">Donate</a></li>
+                </ul>
+            </div>
+            <i class="fas fa-bars"></i>
+
+        </nav>
+        <div class="text-box">
+            <h1> Greatest Site for Social Workers</h1>
+            <p> Social work is a practice-based profession that promotes social change, development, cohesion and the empowerment of people and communities. <br>Social work practice involves the understanding of human development, behavior and the social, economic and cultural institutions and interactions.
+
+            </p>
+            <a href="" class="hero-btn"> Visit Us To Know More</a>
+
+        </div>
+     </section>
+<!-----------------  Event   ------------------>
+<section class="Event">
+    <h1> Events we organize</h1>
+    <p> Day-to-day work involves assessing people's needs, strengths and wishes, working with individuals and families directly to help them make changes and solve problems, organising support, making recommendations or referrals to other services and agencies, and keeping detailed records.</p>
+    
+    <div class="row">
+        <div class="Event-col">
+            <h3> Child, family, and school </h3>
+            <p>Child, family, and school social workers help children, school staff, and family members
+                 resolve problems. In some instances, this may mean placing children in foster care. 
+                 Child, family, and school social workers may also connect struggling parents with
+                  resources to help better care for and raise their children. They work alongside 
+                  students and teachers to address bullying, learning disabilities, and other impairments/barriers.</p> 
+
+            
+        </div>
+        <div class="Event-col">
+            <h3>Medical and public health  </h3>
+            <p>Medical and public health social workers help the seriously ill and those with chronic
+                 health problems to find adequate care, access public resources like Medicare and Medicaid
+                  or locate services such as in-home nursing care. They often play a critical role in 
+                  supporting clients as they navigate the numerous healthcare and public service systems that
+                   coordinate healthcare.</p> 
+
+            
+        </div>
+        <div class="Event-col">
+            <h3>Mental health and substance abuse </h3>
+<p>Mental health and substance abuse social workers support people with mental health or substance
+ abuse problems.  Therapy is one common intervention used by social workers to help clients address these problems.
+  Assisting people to find financially accessible rehabilitative programs or long-term mental healthcare is another 
+  service that is offered. Mental health and substance abuse social workers may also participate in outreach and 
+  preventative programs that seek to address problems before they become exacerbated.</p>
+
+
+            
+        </div>
+
+        
+    </div>
+</section>
+<!------------------How we work------------->
+<section class="Enviroment">
+    <h1>How we work </h1>
+    <p>Identify people and communities in need of help
+        Assess clients’ needs, situations, strengths, and support networks to determine their goals
+        Help clients adjust to changes and challenges in their lives, such as illness, divorce, or unemployment
+        Research, refer, and advocate for community resources, such as food stamps, childcare, and healthcare to assist and improve a client’s well-being
+        Respond to crisis situations such as child abuse and mental health emergencies
+        Follow up with clients to ensure that their situations have improved
+        Maintain case files and records
+        Develop and evaluate programs and services to ensure that basic client needs are met
+        Provide psychotherapy services</p>
+
+        <div class="row">
+            <div class="Enviroment-col">
+                <img src="images/lll1.jpg">
+                
+                 <div class="layer">
+                     </div>
+  </div>
+      <div class="Enviroment-col">
+            <img src="images/scc4.jpeg">
+               <div class="layer">
+                 </div>
+ </div>
+ <div class="Enviroment-col">
+            <img src="images/socialworker.jpg">
+             <div class="layer">
+                 </div>
+ </div
+    </div>
+    
+</section>
+<!---------------------skills--------------------->
+<section class="skills">
+    <h1>social worker skills</h1>
+    <p>Each social worker employs a diverse set of skills to do their work. But as we discussed earlier, there are certain skills that can be particularly useful to those in the field. Below are some examples:
+
+        Empathy. This skill enables the social worker to put themselves in their client’s shoes. Having empathy can offer a social worker a deeper understanding of their client’s problems.  
+        Organization. With the many daily responsibilities they have, social workers need to be extremely organized. The amount of paperwork and caseloads can add up from networking, calls, billing, and organizing services for everyone. 
+        Communication. Social workers should be clear, concise, and transparent with clients and their families or care providers, and colleagues. Strong communication can help to mitigate misunderstandings and break down other communication barriers.
+        Problem-Solving. No case is the same and a social worker is often working hard to find the best solution in a difficult situation. A good problem solver can help clients obtain the best services and support needed.
+        Patience. As a social worker, you will work with diverse clients. Maintaining patience and understanding clients from different racial and socio-economic backgrounds is a core component of social work practice. </p>
+<div class="row">
+    <div class="skills-col">
+        <img src="images/Good-Social.jpg">
+        <h3>Child Development</h3>
+        <p>Often social worker will need to make well- informed judgements about the child's situation; balancing the child's needs to safety and well- being with that of the needs of the family which may be in a vulnerable situation itself. Implementing is at the core of the intervention programme.</p>
+
+
+    </div>
+    <div class="skills-col">
+        <img src="images/Medical-social.jpg">
+        <h3>Healthcare</h3>
+        <p>Medical social workers help patients, and their families cope with the emotional and social responses to illness and treatment. They also educate patients and their families on entitlements, community resources, and health insurance coverage.
+        </p>
+
+    </div>
+    <div class="skills-col">
+        <img src="images/gettt.jpg">
+        <h3>Psychological Development</h3>
+        <p>Social workers enjoy connecting individuals or families in need with resources and services that improve their circumstances and help them achieve social equity. Psychologists study the human mind and the normal and abnormal behaviors that the brain can produce.</p>
+    </div>
+</div>
+</section>
+<!--------------call to action--------------->
+<section class="cta">
+    <h1>Social workers make the World a better place<br> So Enroll yourself as Social worker</h1>
+    <a href="" class="hero-btn">Contact Us</a>
+</section>
+<!--------------footer--------------->
+
+<section class="footer">
+    <h4>About Us</h4>
+    <p>Getting your master’s degree may be hard work, but finding out where to enroll shouldn’t be.
+         We created MSWOnlinePrograms.org so that locating an online school is easy. <br>We put schools with online
+          programs in social work and other related fields right at your finger tips.</p>
+<div class="icons">
+    <i class="fab fa-facebook"></i>
+    <i class="fa fa-twitter"></i>
+    <i class="fa fa-instagram"></i>
+    <i class="fa fa-linkedin"></i>
+    
+</div>
+<p>Made with  <i class="fa fa-heart aria-hidden="true></i></i> by Easy Tutorial</p>
+</section>
+
+
+    
+</body>
+</html> 
